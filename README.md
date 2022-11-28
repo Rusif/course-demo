@@ -1,4 +1,4 @@
-# Library 
+# Course Demo 
 > written in *Hexagonal (Ports & Adapters) Architecture*
 
 This is a small application that provides basic REST endpoints for managing 
